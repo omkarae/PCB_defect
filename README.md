@@ -1,5 +1,5 @@
 
-# Hi 👋, I am Omkar Edgaonkar
+# PCB defect detection
 
 <p align="left"> <img src="https://raw.githubusercontent.com/tangsanli5201/DeepPCB/master/fig/result/result_test1.jpg" alt="pcbimg" /> </p>
 
